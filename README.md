@@ -119,17 +119,17 @@ console.log(`${vaibhav.name} is ready to collaborate! 🚀`);
 
 ## 🏆 Featured Projects
 
-### 🌟 [Project Name 1](project-link)
+### 🌟 [Online Code Editor](project-link)
 **Tech:** React • Node.js • Express • MongoDB • JWT
 
 A full-stack MERN application featuring user authentication, real-time updates, and responsive design. Implemented RESTful APIs and state management with Redux.
 
-### 🌟 [Project Name 2](project-link)
+### 🌟 [Food Plaza](project-link)
 **Tech:** React • Spring Boot • MySQL • REST API
 
 Building a modern application exploring Spring Boot backend with React frontend, focusing on microservices architecture and clean code principles.
 
-### 🌟 [Project Name 3](project-link)
+### 🌟 [I Chat ](project-link)
 **Tech:** MERN Stack • Socket.io • Cloud Deployment
 
 Real-time application with WebSocket communication, featuring advanced state management and optimized performance.
