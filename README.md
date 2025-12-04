@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Vaibhav Jadhav
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00C7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Specialist; React+Developer;Exploring+Spring+Boot;Building+Scalable+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00C7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Specialist;Exploring+Spring+Boot;Building+Scalable+Solutions" alt="Typing SVG" />
 
 ### 💻 Crafting Digital Experiences | 🚀 Turning Ideas Into Reality
 
